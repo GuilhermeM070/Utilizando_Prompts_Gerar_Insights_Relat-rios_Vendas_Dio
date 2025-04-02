@@ -1,3 +1,13 @@
+Desafio de Projeto - DIO
+
+Este repositório faz parte de um desafio de projeto da DIO, focado na análise e transformação de dados de vendas de consoles para otimizar processos e tomada de decisão.
+
+✨ Características
+
+A empresa foca apenas na fabricação de consoles, deixando a distribuição e venda para terceiros.
+
+Os produtos são vendidos globalmente.
+
 # Características
 
 - A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros
